@@ -1,5 +1,5 @@
 # Red-Carpet-KaTex
-A red carpet theme in Remnote that is optimal for Stem users who want their math equations to look clean. It makes the flashcard queue the same color as the body in the document to get rid of the border for images of diagrams, and gets rid of the ugly border that shows up when you cloze a KaTex block. Requires Darkmode. 
+A red carpet theme in Remnote that is optimal for STEM users who want their math equations to look clean. It makes the flashcard queue the same color as the body in the document to get rid of the border for images of diagrams, and gets rid of the ugly border that shows up when you cloze a KaTex block. Requires Darkmode. 
 
 Before:
 ![image](https://user-images.githubusercontent.com/87283170/216800418-2c751268-3e21-471e-b017-f4bbe00e6482.png)
